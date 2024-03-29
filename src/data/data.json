@@ -180,5 +180,13 @@
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
+  ],
+ "Register" : [
+   {
+     "icon": "fa fa-magic",
+     "title":"Register here",
+     "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+
+   }
   ]
 }
